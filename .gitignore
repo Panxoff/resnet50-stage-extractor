@@ -1,0 +1,8 @@
+# Excluir todo lo ubicado en la raíz del proyecto.
+/*
+
+# Permitir únicamente estos cuatro archivos.
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/resnet50_featuresmap.py
